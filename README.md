@@ -10,3 +10,6 @@ Criação do repositório e dos arquivos README e algoritmo.por
 
 Integrante 2: Guilherme Negro
 Alteração no código .por
+
+integrante 3 : Bruno Santana. 
+Alteração no código.por

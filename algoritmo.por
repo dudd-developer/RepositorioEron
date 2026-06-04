@@ -9,5 +9,7 @@ programa {
     leia(b)
 
     escreva("A soma entre os dois valores é ", a + b)
+
+    escreva("A subtração dos dois valores é : ", a - b)
   }
 }
